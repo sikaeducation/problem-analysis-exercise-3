@@ -14,14 +14,7 @@ Note that you do not need to solve the problem.
 
 * Contains a clear and simple restatement of the problem that:
   * Identifies the data
-    * Peter and Paul move `p` miles per hour
-    * Bob moves `c` miles per hour
   * Identifies the unknown
-    * How much progress does the entire company make per hour
-    * What proportion of the time does the car contain one person
   * Identifies the constraint
-    * Bob can only carry either Peter, Paul, or neither, but not both
-    * When Bob drops someone off, he drives back and that person keeps hiking
-    * When Bob and a passenger overtake the remaining hiker, Bob drops off the passenger and picks up the hiker.
 * Identifies a plausible difficulty with the problem
 * Details 2 plausible approaches to solving the problem
